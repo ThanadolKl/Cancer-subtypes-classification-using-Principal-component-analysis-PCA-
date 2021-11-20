@@ -1,6 +1,6 @@
 # Cancer subtypes prediction using-Principal component analysis (PCA)
 ## Author: "Thanadol Klainin 6S No.8 "
-## Date: "22/10/1021"
+## Date: "22/10/2021"
 ## ESC 782 DSS 
 
 # Homework I : Apply principle component analysis to the dataset.
