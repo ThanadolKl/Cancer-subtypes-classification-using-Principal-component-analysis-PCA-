@@ -1,4 +1,4 @@
-# Cancer subtypes classification using-Principal component analysis (PCA)
+# Cancer subtypes prediction using-Principal component analysis (PCA)
 ## Author: "Thanadol Klainin 6S No.8 "
 ## Date: "22/10/1021"
 ## ESC 782 DSS 
