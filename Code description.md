@@ -40,8 +40,11 @@ Y2 <- sum(G*Z)
 ```
 
 > Transform list of new data (new patient) to Vector G  and assign weight of PC1 by calling pca_w (index = 1:13)
+
 > Calculate Y1 (PC1) by calculating Y1 = W1xG1 + W2xG2 + W3xG3 + ... + W13xG13. So, use multiplication of 2 vectors operation and sum of new vector (G * W) 
+
 > Calculate Y2 (PC2) by calculating Y2 = Z1xG1 + Z2xG2 + Z3xG3 + ... + Z13xG13. So, use multiplication of 2 vectors operation and sum of new vector (G * Z)
+
 
 ## Plot the new patient’s transformed scores on PC1 and PC2
 
