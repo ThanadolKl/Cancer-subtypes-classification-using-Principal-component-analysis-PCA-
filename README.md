@@ -1,5 +1,5 @@
 # Cancer subtypes classification using-Principal component analysis (PCA)
-## author: "Thanadol Klainin 6S No.8 "
+## Author: "Thanadol Klainin 6S No.8 "
 ## Date: "22/10/1021"
 ## ESC 782 DSS 
 
@@ -39,5 +39,16 @@ gene13 -0.32283439  0.27585473
 | Y1 (PC1) | Y2 (PC2) |
 |----------|----------|
 |0.1278733 | -2.386158|
+
+## Plot the new patient’s transformed scores on PC1 and PC2 (plot Y1 versus Y2) together with those of the 60 patients.
+
+![PCA_61](https://user-images.githubusercontent.com/67301601/142720812-7526287d-0b0f-4d38-935d-13fd48d58ea5.png)
+
+## Based on the plot, can you predict which cancer subtype the new patient is?
+
+> จากการดูพิกัดของ new data ที่ plot ลงบนกราฟเดิมแล้ว พบว่า ข้อมูลผู้ป่วยใหม่อยู่ในบริเวณกลุ่มของผู้ป่วยที่เป็น subtype B จึงทำนายว่าข้อมูล expression ของ ผู้ป่วยตนใหม่ มีความน่าจะเป็นที่จะอยู่ใน subtype B มากที่สุด 
+
+
+
 
 
